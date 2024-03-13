@@ -46,6 +46,7 @@
 | post      | `/<int:pk>/update/` | `post_update`| `post/post_update.html`| 게시글 수정 페이지   |
 | post      | `/<int:pk>/delete/` | `post_delete`| `post/post_delete.html`| 게시글 삭제 페이지   |
 
+## WBS
 
 ```mermaid
 graph TD;
