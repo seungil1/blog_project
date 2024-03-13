@@ -31,6 +31,7 @@
 | post      | `/<int:pk>/delete/` | `post_delete`| `post/post_delete.html`| 게시글 삭제 페이지   |
 
 
+```mermaid
 graph TD;
     A[프로젝트 시작] --> B[요구사항 분석]
     B --> C[프로젝트 범위 정의]
