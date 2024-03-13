@@ -21,6 +21,12 @@
 
 
 
+## 2. 개발 환경 및 배포 URL
+### 2-1 개발환경
+- Visual Studio Code(Django)
+
+### 2-2 URL구조
+
 ### register 앱
 
 | App       | URL                | Views Function | HTML File Name           | Note              |
